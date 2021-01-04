@@ -4,7 +4,7 @@ ProjectShare is a prototype we built to explore the building of an application w
 
 We built the frontend with [React](https://reactjs.org/) and used [Material UI](https://material-ui.com/) for designing the application.
 
-If you want to learn more about the Backend we used check out the [Repository](https://github.com/Tiffinger-Thiel-GmbH/projectshare-api)
+If you want to learn more about the Backend we used check out the [Repository](https://github.com/Tiffinger-Thiel-GmbH/projectshare-api).
 
 ## Run
 
@@ -18,9 +18,9 @@ cd frontend/ && yarn dev
 
 The whole source code is stored inside the `frontend/src/` directory.
 
-The entry point is located inside the `index.tsx` while the `App.tsx` is the first React component
+The entry point is located inside the `index.tsx` while the `App.tsx` is the first React component.
 
-Then the `Home.tsx` is rendered and holds the AppBar and Content which are all stored inside the `pages/` folder while the smaller sub-components are located inside the `components` directory
+Then the `Home.tsx` is rendered and holds the AppBar and Content which are all stored inside the `pages/` folder while the smaller sub-components are located inside the `components` directory.
 
 ## Contributing
 
